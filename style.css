@@ -36,6 +36,10 @@
     border-radius: 10px;
 
 }
+.button1:hover{
+    background-color: rgb(193, 245, 4);
+    color: #01010b;
+}
 
 .mainbody{
 text-align: center;    
@@ -140,6 +144,11 @@ input{
     color: white;
     font-size: 18px;
     border-radius: 10px;
+}
+
+.button2:hover{
+    background-color: rgb(193, 245, 4);
+    color: #010104;
 }
 ::placeholder{
     padding-left: 20px;
