@@ -4,8 +4,13 @@
 }
 .Raleway{
   font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto; 
+  font-style: normal;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight: bold;
   font-style: normal;
 }
 
@@ -70,6 +75,8 @@ img{
     text-align: center;
     padding: 50px 80px;
     border-radius: 10px;
+    max-width: 1140px;
+    margin: 0px auto;
 
 }
 .ranking{
@@ -84,6 +91,8 @@ img{
 
 .Reviewe{
        padding: 50px 50px;
+       max-width: 1140px;   margin: 0px auto;
+
      
 }
 h4{
@@ -98,6 +107,7 @@ h4{
     text-align: center;
     margin: 100px 0px 20px 0px;
     font-size: 40px;
+    padding-top: 50px;
 }
 .part3{
    max-width: 1140px;
